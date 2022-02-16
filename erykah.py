@@ -4,7 +4,7 @@ from datetime import datetime
 from pytz import timezone
 import pytz
 
-TOKEN = 'OTQyMzM0MDg0NzAzNzI3NjY2.Ygi_AQ.lTMQ3Lpu90KDvcL2PRnwMZqwY_k'
+TOKEN = []
 
 client = discord.Client()
 
